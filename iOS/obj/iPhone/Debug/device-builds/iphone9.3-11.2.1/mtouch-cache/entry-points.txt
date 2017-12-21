@@ -1,0 +1,27 @@
+Function=xamarin_timezone_get_data
+	/Users/matheus_solucoes/Projects/Aula4/iOS/obj/iPhone/Debug/device-builds/iphone9.3-11.2.1/mtouch-cache/Link/mscorlib.dll
+Function=xamarin_GetFolderPath
+	/Users/matheus_solucoes/Projects/Aula4/iOS/obj/iPhone/Debug/device-builds/iphone9.3-11.2.1/mtouch-cache/Link/mscorlib.dll
+Function=xamarin_log
+	/Users/matheus_solucoes/Projects/Aula4/iOS/obj/iPhone/Debug/device-builds/iphone9.3-11.2.1/mtouch-cache/Link/mscorlib.dll
+Function=CreateZStream
+	/Users/matheus_solucoes/Projects/Aula4/iOS/obj/iPhone/Debug/device-builds/iphone9.3-11.2.1/mtouch-cache/Link/System.dll
+Function=CloseZStream
+	/Users/matheus_solucoes/Projects/Aula4/iOS/obj/iPhone/Debug/device-builds/iphone9.3-11.2.1/mtouch-cache/Link/System.dll
+Function=Flush
+	/Users/matheus_solucoes/Projects/Aula4/iOS/obj/iPhone/Debug/device-builds/iphone9.3-11.2.1/mtouch-cache/Link/System.dll
+Function=ReadZStream
+	/Users/matheus_solucoes/Projects/Aula4/iOS/obj/iPhone/Debug/device-builds/iphone9.3-11.2.1/mtouch-cache/Link/System.dll
+Function=WriteZStream
+	/Users/matheus_solucoes/Projects/Aula4/iOS/obj/iPhone/Debug/device-builds/iphone9.3-11.2.1/mtouch-cache/Link/System.dll
+Function=xamarin_start_wwan
+	/Users/matheus_solucoes/Projects/Aula4/iOS/obj/iPhone/Debug/device-builds/iphone9.3-11.2.1/mtouch-cache/Link/System.dll
+Function=UIApplicationMain
+	/Users/matheus_solucoes/Projects/Aula4/iOS/obj/iPhone/Debug/device-builds/iphone9.3-11.2.1/mtouch-cache/Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/matheus_solucoes/Projects/Aula4/iOS/obj/iPhone/Debug/device-builds/iphone9.3-11.2.1/mtouch-cache/Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr
+	/Users/matheus_solucoes/Projects/Aula4/iOS/obj/iPhone/Debug/device-builds/iphone9.3-11.2.1/mtouch-cache/Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr
+	/Users/matheus_solucoes/Projects/Aula4/iOS/obj/iPhone/Debug/device-builds/iphone9.3-11.2.1/mtouch-cache/Link/Xamarin.iOS.dll
+Function=mono_pmip

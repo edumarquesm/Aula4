@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{8128339B-101D-458E-AF7A-F165387670A5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Aula4/News.xaml.cs">
+    <Files>
+      <File FileName="Aula4/MainPage.xaml" Line="12" Column="19" />
+      <File FileName="Aula4/MainPage.xaml.cs" Line="21" Column="13" />
+      <File FileName="Aula4/App.xaml" Line="19" Column="1" />
+      <File FileName="Aula4/App.xaml.cs" Line="15" Column="35" />
+      <File FileName="Aula4/HomePage.xaml" Line="6" Column="16" />
+      <File FileName="Aula4/HomePage.xaml.cs" Line="31" Column="22" />
+      <File FileName="Aula4/News.xaml" Line="15" Column="29" />
+      <File FileName="Aula4/News.xaml.cs" Line="30" Column="10" />
+      <File FileName="Droid/obj/Debug/Aula4.Droid.News.xaml.g.cs" Line="18" Column="32" />
+      <File FileName="Droid/obj/Debug/Aula4.Droid.HomePage.xaml.g.cs" Line="43" Column="1" />
+      <File FileName="Aula4/FormClass.cs" Line="15" Column="62" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Aula4.Droid PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Aula4 HideGettingStarted="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Aula4.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.b580f04cbd6c56ed8c929e3844c046f5699de4a6">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.Aula4.iOS>
+</Properties>

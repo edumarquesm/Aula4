@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>com.apple.developer.pass-type-identifiers</key>
+	<array>
+		<string>N9C2XYZK4B.*</string>
+	</array>
+	<key>get-task-allow</key>
+	<true/>
+	<key>application-identifier</key>
+	<string>N9C2XYZK4B.com.companyname.Aula4</string>
+	<key>com.apple.developer.team-identifier</key>
+	<string>N9C2XYZK4B</string>
+</dict>
+</plist>
